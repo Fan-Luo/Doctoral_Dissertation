@@ -21,10 +21,10 @@ The dissertation is divided into several chapters that cover the following topic
  
 <br>
 <div style="display: flex; justify-content: space-between;">
- <img src="Challenges.png" width="30%" style="height:140px; object-fit:cover" />
+ <img src="Challenges.png" width="30%" />
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="Paper1.png" width="30%" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
 <img src="Paper2.png" width="30%" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="Paper3.png" width="30%" style="float: right;" />

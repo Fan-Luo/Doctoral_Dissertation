@@ -21,13 +21,13 @@ The dissertation is divided into several chapters that cover the following topic
  
 <br>
 <div style="display: flex; justify-content: space-between;">
- <img src="ODQA_Challenges.png" width="47%" />
+ <img src="ODQA_Challenges.png" width="46%" />
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="Paper1.png" width="47%" />
+<img src="Paper1.png" width="46%" />
 <br>
-<img src="Paper2.png" width="47%" />
+<img src="Paper2.png" width="46%" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="Paper3.png" width="47%" style="float: right;" />
+<img src="Paper3.png" width="46%" style="float: right;" />
 </div>
 <br>
 

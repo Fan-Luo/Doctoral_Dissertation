@@ -31,9 +31,6 @@ The dissertation is divided into several chapters that cover the following topic
 </div>
 <br>
 
-## Requirements
-It is recommended to have a PDF reader to view the document.
-
 ## Contributing
 This repository is meant for archival purposes and no further contributions are expected.
 

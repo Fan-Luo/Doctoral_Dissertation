@@ -21,7 +21,7 @@ The dissertation is divided into several chapters that cover the following topic
  
 <br>
 <div style="display: flex; justify-content: space-between;">
- <img src="Challenges.png" width="30%" />
+ <img src="ODQA_Challenges.png" width="30%" />
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="Paper1.png" width="30%" />
 <br>

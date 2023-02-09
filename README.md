@@ -18,14 +18,11 @@ The dissertation is divided into several chapters that cover the following topic
 - Learning Strategies for Question Answering with Fewer Annotations 
 - Conclusion and future directions for research
 
-
+ 
 <br>
 <div style="display: flex; justify-content: space-between;">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="Challenges.png" width="85%"   />
-</div>
-
-<br>
-<div style="display: flex; justify-content: space-between;">
+ <img src="Challenges.png" width="30%" style="height:140px; object-fit:cover" />
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="Paper1.png" width="30%" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="Paper2.png" width="30%" />
